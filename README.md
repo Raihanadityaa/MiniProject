@@ -1,10 +1,18 @@
  
 # Registration form
-A registration form that allows you to create surveys, ask questions with online form features that can be customized according to your needs. This registration form is intended for companies and individuals.
-
-terjemahan
 Formulir pendaftaran yang memungkinkan Anda untuk membuat survey, tanya jawab dengan fitur formulir online yang bisa dicustomisasi sesuai dengan kebutuhan. Formulir pendaftaran ini di peruntukan untuk perusahaan maupun individu
 
-Pemrograman yang dipakai untuk membuat formulir ini adalah HTML dan Bootstrap 4 sebagai framework
+## Installation
+1. Buka aplikasi Text Editor seperti sublime, notepad++, ataupun atom
+2. Klik open project
+3. Pilih folder Raihan
+4. Dalam Text Editor copy path file
+5. Klik browser lalu tekan 'Ctr + V' di kolom pencarian
+6. Tekan 'Enter'
 
-code dapat dijalankan menggunakan text editor biasa sepert notepad++, sublime text, atau VScode.
+## Tech Stack
+HTML
+Bootstrap 4
+
+## Screenshots
+![App Screenshot](https://i.ibb.co/tLFHtR6/Screenshot-3.png)
