@@ -5,7 +5,7 @@ Formulir pendaftaran yang memungkinkan Anda untuk membuat survey, tanya jawab de
 ## Installation
 1. Buka aplikasi Text Editor seperti sublime, notepad++, ataupun atom
 2. Klik open project
-3. Pilih folder Raihan
+3. Pilih file raihanProject
 4. Dalam Text Editor copy path file
 5. Klik browser lalu tekan 'Ctr + V' di kolom pencarian
 6. Tekan 'Enter'
